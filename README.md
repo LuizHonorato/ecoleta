@@ -43,6 +43,6 @@ Mobile:
 <p><img src="screenshots/form2-ecoleta.png" /></p>
 <p><img src="screenshots/form3-ecoleta.png" /></p>
 <p><img src="screenshots/mobile-1.png" height="600" width="330" /></p>
-<p><img src="screenshots/mobile-2.png" /></p>
-<p><img src="screenshots/mobile-3.png" /></p>
-<p><img src="screenshots/mobile-4.png" /></p>
+<p><img src="screenshots/mobile-2.png" height="600" width="330" /></p>
+<p><img src="screenshots/mobile-3.png" height="600" width="330" /></p>
+<p><img src="screenshots/mobile-4.png" height="600" width="330" /></p>
