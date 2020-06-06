@@ -21,6 +21,13 @@ Para o frontend:
 - Axios;
 - Leaflet
 
+Para o mobile:
+- React-Native;
+- React-Navigation;
+- Typescript;
+- Expo;
+- Axios;
+
 # Execução
 
 Backend:
